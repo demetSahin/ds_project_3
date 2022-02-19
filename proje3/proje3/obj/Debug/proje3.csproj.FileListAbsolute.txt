@@ -1,0 +1,6 @@
+/Users/demetsahinyenigul/Projects/proje3/proje3/bin/Debug/proje3.exe
+/Users/demetsahinyenigul/Projects/proje3/proje3/bin/Debug/proje3.pdb
+/Users/demetsahinyenigul/Projects/proje3/proje3/obj/Debug/proje3.csprojAssemblyReference.cache
+/Users/demetsahinyenigul/Projects/proje3/proje3/obj/Debug/proje3.csproj.CoreCompileInputs.cache
+/Users/demetsahinyenigul/Projects/proje3/proje3/obj/Debug/proje3.exe
+/Users/demetsahinyenigul/Projects/proje3/proje3/obj/Debug/proje3.pdb
